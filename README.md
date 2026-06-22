@@ -50,6 +50,10 @@ Pivot Tables, Pivot Charts, and Slicers were used to analyze sales quantity, shi
 
 ![Pivot Analysis and Charts](https://github.com/harishmaparveen2-source/power-query/blob/2b67cb9f8eaf51bcfc5c2dbfd2efb8dcaeef5be6/POWER%20QUERY.png)
 
+## 🎥 Demo Video
+
+[▶ Download / Watch Video](https://github.com/harishmaparveen2-source/power-query/blob/ff283ad4c7361ae11235528c0f19f4b0eb9aee11/Power%20queryScreen%20Recording.mp4)
+
 ## Dashboard Features
 
 * Sales Performance Analysis
