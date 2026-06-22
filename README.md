@@ -7,6 +7,7 @@ This project demonstrates the development of an interactive Sales Dashboard in M
 ## Final Sales Dashboard
 
 The final interactive dashboard provides key business insights, including total profit, total sales, average sales, regional performance, category analysis, and dynamic filtering using slicers.
+![Final Sales Dashboard]()
 
 ## Objectives
 
