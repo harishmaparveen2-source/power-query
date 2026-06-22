@@ -4,6 +4,10 @@
 
 This project demonstrates the development of an interactive Sales Dashboard in Microsoft Excel using Power Query, Pivot Tables, Pivot Charts, and Slicers. The dashboard helps analyze sales performance, profit trends, customer segments, and regional performance through dynamic visualizations.
 
+## Final Sales Dashboard
+
+The final interactive dashboard provides key business insights, including total profit, total sales, average sales, regional performance, category analysis, and dynamic filtering using slicers.
+
 ## Objectives
 
 * Clean and transform raw sales data using Power Query.
