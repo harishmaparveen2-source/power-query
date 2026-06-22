@@ -78,3 +78,5 @@ Built a fully interactive Excel dashboard that enables users to explore sales tr
 
 ## Author
 Harishma Parveen
+
+Aspiring Data Analyst | Data Science Enthusiast
