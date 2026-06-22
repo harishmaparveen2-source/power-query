@@ -38,6 +38,12 @@ The dataset contains:
 * Regional Information
 * Shipping Details
 
+## Data Cleaning & Transformation (Power Query)
+
+Raw sales data was cleaned and transformed using Power Query to prepare the dataset for analysis and dashboard creation.
+
+![Power Query Data Transformation]()
+
 ## Dashboard Features
 
 * Sales Performance Analysis
