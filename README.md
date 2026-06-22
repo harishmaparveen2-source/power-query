@@ -44,6 +44,12 @@ Raw sales data was cleaned and transformed using Power Query to prepare the data
 
 ![Power Query Data Transformation](https://github.com/harishmaparveen2-source/power-query/blob/b9d63042ccaab33fbb6edecdadf7ac33bca641aa/POWER%20QUERY%20TABLE.png)
 
+## Pivot Analysis & Visual Reports
+
+Pivot Tables, Pivot Charts, and Slicers were used to analyze sales quantity, shipping trends, regional performance, and product categories.
+
+![Pivot Analysis and Charts]()
+
 ## Dashboard Features
 
 * Sales Performance Analysis
