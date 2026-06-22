@@ -42,7 +42,7 @@ The dataset contains:
 
 Raw sales data was cleaned and transformed using Power Query to prepare the dataset for analysis and dashboard creation.
 
-![Power Query Data Transformation]()
+![Power Query Data Transformation](https://github.com/harishmaparveen2-source/power-query/blob/b9d63042ccaab33fbb6edecdadf7ac33bca641aa/POWER%20QUERY%20TABLE.png)
 
 ## Dashboard Features
 
