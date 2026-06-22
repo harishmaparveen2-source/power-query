@@ -52,7 +52,7 @@ Pivot Tables, Pivot Charts, and Slicers were used to analyze sales quantity, shi
 
 ## 🎥 Demo Video
 
-[▶ Download / Watch Video](https://github.com/harishmaparveen2-source/power-query/blob/ff283ad4c7361ae11235528c0f19f4b0eb9aee11/Power%20queryScreen%20Recording.mp4)
+[▶ Download / Watch Video](https://github.com/harishmaparveen2-source/power-query/blob/439eef4c00498be39ac7247652d9f291b5931e12/Power%20Queryscreen%20Recording.mp4)
 
 ## Dashboard Features
 
