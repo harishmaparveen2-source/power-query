@@ -1,4 +1,12 @@
 # Power Query Sales Dashboard
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Sales Dashboard](https://img.shields.io/badge/Sales%20Dashboard-1976D2?style=flat-square)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-F57C00?style=flat-square)
+![Merge Queries](https://img.shields.io/badge/Merge%20Queries-7B1FA2?style=flat-square)
+![Append Queries](https://img.shields.io/badge/Append%20Queries-00897B?style=flat-square)
+![Custom Columns](https://img.shields.io/badge/Custom%20Columns-5E35B1?style=flat-square)
+![Data Transformation](https://img.shields.io/badge/Data%20Transformation-E53935?style=flat-square)
+![Data Preparation](https://img.shields.io/badge/Data%20Preparation-3949AB?style=flat-square)
 
 ## Overview
 
